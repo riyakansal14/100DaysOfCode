@@ -17,6 +17,7 @@ int main() {
 	    {
 	        cout<<a[j]<<" ";
 	    }
+		cout<<endl;
 	    t--;
 	}
 	return 0;
